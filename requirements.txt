@@ -1,0 +1,13 @@
+vllm==0.14.1
+openai-whisper
+chromadb
+FlagEmbedding
+transformers
+accelerate
+pillow
+opencv-python
+gradio
+modelscope
+hf_transfer
+decord
+tqdm

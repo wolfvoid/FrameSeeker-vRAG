@@ -1,0 +1,8 @@
+*.mp4
+*.mp3
+data/*
+!data/
+data/*/*
+!data/*/
+! data/*/.gitkeep
+**/__pycache__/
